@@ -1,4 +1,4 @@
-# gitdemo1
+# Git Demo 1
 
 This is a demo
 Author: Anastasia Richardson
